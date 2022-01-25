@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scrollable_layout</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="female">Female</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="password">Password</string>
+    <string name="show_info">Show Info</string>
+    <string name="register">Register</string>
+</resources>
