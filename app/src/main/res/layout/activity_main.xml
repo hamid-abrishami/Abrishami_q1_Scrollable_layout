@@ -167,6 +167,7 @@
 
             <RadioButton
                 android:id="@+id/femaleButton"
+                android:checked="true"
                 android:layout_width="90dp"
                 android:layout_height="23dp"
                 android:layout_marginStart="36dp"
